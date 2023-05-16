@@ -6,7 +6,11 @@ public class test {
 		// TODO Auto-generated method stub
 int[] intArr= {1,2};
 System.out.println(intArr.length);
+
 		System.out.println(intArr.length+p);
+
+		System.out.println(intArr.length+9);
+
 		//hvhvhvhvh
 		//';;lojuihu
 	}
