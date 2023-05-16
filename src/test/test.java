@@ -8,6 +8,7 @@ int[] intArr= {1,2};
 System.out.println(intArr.length);
 		System.out.println(intArr.length);
 		//hvhvhvhvh
+		//';;lojuihu
 	}
 }
 
